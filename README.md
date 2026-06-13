@@ -239,7 +239,7 @@ public class VishalBaluri {
 </a>
 
 <!-- Add LinkedIn URL -->
-<a href="linkedin.com/in/vishal-baluri">
+<a href="https://www.linkedin.com/in/vishal-baluri/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
